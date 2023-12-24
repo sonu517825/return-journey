@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "task1": "nodemon task1",
+    "task2": "nodemon task2",
+    "task3": "nodemon task3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
